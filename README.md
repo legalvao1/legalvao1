@@ -15,7 +15,7 @@ Hooks e Context, finalizando com um projeto app de receitas;
 
 * :seedling: Nas próximas semanas iniciaremos o módulo de Back-end com **SQL**;
 
-* :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+* :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
 
 * :speech_balloon: Gosto de ajudar pessoas e ser ajudada, pergunte-me qualquer coisa;
 
