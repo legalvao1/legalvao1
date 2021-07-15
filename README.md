@@ -45,3 +45,6 @@ Hooks e Context, finalizando com um projeto app de receitas;
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legalvao1&color=blue&style=plastic&label=PROFILE+VIEWS" alt="legalvao1" /> </p>
+
+⭐️ Baseado em [
+lucasmartins96](https://github.com/lucasmartins96)
