@@ -13,7 +13,7 @@ Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil
 onde pude aprender várias tecnologias como React, Redux, Testes, 
 Hooks e Context, finalizando com um projeto app de receitas;
 
-* :seedling: Nas próximas semanas iniciaremos o módulo de Back-end com **SQL**;
+* :seedling: Atualmente no módulo de Back-end, estudando sobre **MongoDB**;
 
 * :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
 
@@ -31,6 +31,7 @@ Hooks e Context, finalizando com um projeto app de receitas;
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Status Github
 
