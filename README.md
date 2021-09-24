@@ -7,19 +7,19 @@
 
 Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou em transição de carreira para área de tecnologia estudando para ser uma **Desenvolvedora Full-Stack Júnior** na [Trybe](https://www.betrybe.com/)  :rocket:
 
-**Meus interesses pessoais:**
+**Sobre mim:**
 
-* :woman_technologist: No momento estou terminando o módulo de Front-end na **Trybe**, 
+* :woman_technologist: Terminei o módulo de Front-end na **Trybe**, 
 onde pude aprender várias tecnologias como React, Redux, Testes, 
 Hooks e Context, finalizando com um projeto app de receitas;
 
-* :seedling: Atualmente no módulo de Back-end, estudando sobre **MongoDB**;
+* :seedling: Atualmente estou no módulo de Back-end, estudando sobre **NodeJs, arquitetura MSC, REST e deploy**;
 
-* :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedora;
+* :briefcase: Adquir conhecimento para evoluir na minha carreira de desenvolvedora;
 
-* :speech_balloon: Gosto de ajudar pessoas e ser ajudada, pergunte-me qualquer coisa;
+* :speech_balloon: Sinta-se a vontade para me perguntar qualquer coisa;
 
-* :mailbox:  Por favor, envie um email para legalvao1@gmail.com para me encontrar.
+* :mailbox: Por favor, envie um email para legalvao1@gmail.com para me encontrar.
 
 **Conhecimentos adquiridos até hoje:**
 
@@ -32,6 +32,10 @@ Hooks e Context, finalizando com um projeto app de receitas;
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+
 
 ### 📊 Status Github
 
