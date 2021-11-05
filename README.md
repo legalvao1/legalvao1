@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou em transição de carreira para área de tecnologia estudando para ser uma **Desenvolvedora Full-Stack Júnior** na [Trybe](https://www.betrybe.com/)  :rocket:
+Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou em transição de carreira para área de tecnologia, na reta final do curso da [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior**:rocket:
 
 **Sobre mim:**
 
