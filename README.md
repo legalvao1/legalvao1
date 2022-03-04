@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou trabalhando como analista de sistemas júnior em [Take Blip](https://www.take.net/). E aguardando a formatura do curso da [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior**:rocket:
+Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou trabalhando como analista de sistemas júnior em [Take Blip](https://www.take.net/). E aguardando a formatura do curso da [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack**:rocket:
 
 **Sobre mim:**
 
