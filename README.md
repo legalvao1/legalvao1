@@ -5,15 +5,13 @@
 <br />
 <br />
 
-Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou em transição de carreira para área de tecnologia, na reta final do curso da [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior**:rocket:
+Olá, me chamo **Letícia Galvão**, sou de Itú, interior de São Paulo, Brasil e, atualmente, estou trabalhando como analista de sistemas júnior em [Take Blip](https://www.take.net/). E aguardando a formatura do curso da [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedora Full-Stack Júnior**:rocket:
 
 **Sobre mim:**
 
-* :woman_technologist: Terminei o módulo de Front-end na **Trybe**, 
-onde pude aprender várias tecnologias como React, Redux, Testes, 
-Hooks e Context, finalizando com um projeto app de receitas;
+* :woman_technologist: Terminei o curso Desenvolvedor Web Full-Stack da **Trybe**;
 
-* :seedling: Atualmente estou no módulo de Back-end, estudando sobre **NodeJs, arquitetura MSC, REST e deploy**;
+* :seedling: Atualmente estou atuando como Chatbot Developer, estudando sobre **C#, .Net, Microsoft Azure**;
 
 * :briefcase: Adquir conhecimento para evoluir na minha carreira de desenvolvedora;
 
@@ -35,6 +33,7 @@ Hooks e Context, finalizando com um projeto app de receitas;
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 📊 Status Github
